@@ -1,7 +1,6 @@
 # Resume
-Updated Resume in PDF
 
-https://github.com/iggyx2/resume/Igor.Palija.Resume.SQLDeveloper.pdf
+[Updated Resume in PDF](https://github.com/iggyx2/resume/blob/main/Igor.Palija.Resume.SQLDeveloper.pdf)
 
 
 Online Resume
